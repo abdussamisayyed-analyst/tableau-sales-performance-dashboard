@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](Untitled.png)
 
+🔗 LinkedIn Post Link : https://www.linkedin.com/feed/update/urn:li:activity:7471474805196763136/
+
 ## 📌 Project Summary
 
 The Sales Performance Dashboard is an interactive Business Intelligence solution developed in Tableau to analyze organizational sales performance, profitability, customer demand, and product trends.
@@ -193,9 +195,8 @@ Potential improvements include:
 
 ### Abdussami Sayyed
 
-Aspiring Data Analyst passionate about transforming data into actionable business insights.
+Data Analyst passionate about transforming data into actionable business insights.
 
-🔗 LinkedIn: www.linkedin.com/in/abdussami-sayyed
 
 🔗 GitHub: github.com/Abdussami-Sayyed
 
