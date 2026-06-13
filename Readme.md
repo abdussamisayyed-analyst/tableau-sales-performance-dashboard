@@ -200,7 +200,7 @@ Data Analyst passionate about transforming data into actionable business insight
 
 🔗 GitHub: github.com/Abdussami-Sayyed
 
-📧 Email: your-email@example.com
+📧 Email: abdussamisayyed@gmail.com
 
 ---
 
